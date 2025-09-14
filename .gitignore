@@ -5,3 +5,4 @@ venv1/
 *db
 *db-journal
 .vscode/
+test_gpu.ipynb
